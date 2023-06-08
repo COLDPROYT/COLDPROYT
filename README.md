@@ -4,7 +4,7 @@ Name -> Egor<br>
 Lastname -> Ivanov<br>
 Y.o -> 15<br>
 I play games -> CS:GO, Minecraft, Euro Track 2, Valorant<br>
-Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm<br>\
+Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm<br>
 <br>
 
 
