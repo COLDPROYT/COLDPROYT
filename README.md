@@ -1,4 +1,12 @@
 ### Hi there 👋
+<br>
+Name -> Egor
+Lastname -> Ivanov
+Y.o -> 15
+I play games -> CS:GO, Minecraft, Euro Track 2, Valorant.
+Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm.
+
+
 
 My skills -> 
 <br><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
