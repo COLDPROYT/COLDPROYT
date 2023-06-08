@@ -1,10 +1,11 @@
 ### Hi there 👋
 <br>
-Name -> Egor
-Lastname -> Ivanov
-Y.o -> 15
-I play games -> CS:GO, Minecraft, Euro Track 2, Valorant.
-Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm.
+Name -> Egor<br>
+Lastname -> Ivanov<br>
+Y.o -> 15<br>
+I play games -> CS:GO, Minecraft, Euro Track 2, Valorant<br>
+Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm<br>\
+<br>
 
 
 
