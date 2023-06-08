@@ -6,5 +6,8 @@ My skills ->
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cold&theme=purple&show_icons=true)
+
 
 
