@@ -1,9 +1,8 @@
 ### Hi there 👋
 <br>
 🐱 Name -> Egor<br>
-🐭 Lastname -> Ivanov<br> 
 👦 Y.o -> 15<br>
-🎮 I play games -> CS:GO, Minecraft, Euro Track 2, Valorant<br>
+🎮 I play games -> CS:GO, Minecraft, Euro Track 2, Valorant, Apex Legends, Genshin Impact, Pubg (PC Version)<br>
 💻Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm, Clion<br>
 <br>
 
