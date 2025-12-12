@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 🐱 Name -> Egor<br>
-👦 Y.o -> 15<br>
+👦 Y.o -> 17<br>
 🎮 I play games -> CS:GO, Minecraft, Euro Track 2, Valorant, Apex Legends, Genshin Impact, Pubg (PC Version)<br>
 💻Software for programming -> IntelliJ IDEA, PhpStorm, VS Code, PyCharm, Clion<br>
 <br>
